@@ -79,5 +79,35 @@
                 "1": ""
             }
         }
+    },
+    "Sigma": {
+        "author": "Sigma",
+        "featured": "sigma_wallpaper_1",
+        "wallpapers": {
+            "wallpaper1": {
+                "1": ""
+            },
+            "wallpaper2": {
+                "1": ""
+            },
+            "wallpaper3": {
+                "1": ""
+            },
+            "wallpaper4": {
+                "1": ""
+            },
+            "wallpaper5": {
+                "1": ""
+            },
+            "wallpaper6": {
+                "1": ""
+            },
+            "wallpaper7": {
+                "1": ""
+            },
+            "wallpaper8": {
+                "1": ""
+            }
+        }
     }
 }

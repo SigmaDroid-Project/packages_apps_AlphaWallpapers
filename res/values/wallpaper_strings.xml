@@ -41,4 +41,14 @@
     <string name="wallpaper_alpha_wolf6_1">wolf6</string>
     <string name="wallpaper_alpha_wolf7_1">wolf7</string>
     <string name="wallpaper_alpha_wolf8_1">wolf8</string>
+    <string name="category_sigma">Sigma</string>
+    <string name="author_sigma">by Sigma</string>
+    <string name="wallpaper_sigma_wallpaper1_1">wallpaper1</string>
+    <string name="wallpaper_sigma_wallpaper2_1">wallpaper2</string>
+    <string name="wallpaper_sigma_wallpaper3_1">wallpaper3</string>
+    <string name="wallpaper_sigma_wallpaper4_1">wallpaper4</string>
+    <string name="wallpaper_sigma_wallpaper5_1">wallpaper5</string>
+    <string name="wallpaper_sigma_wallpaper6_1">wallpaper6</string>
+    <string name="wallpaper_sigma_wallpaper7_1">wallpaper7</string>
+    <string name="wallpaper_sigma_wallpaper8_1">wallpaper8</string>
 </resources>

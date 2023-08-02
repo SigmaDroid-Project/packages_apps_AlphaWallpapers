@@ -212,6 +212,48 @@
             title="@string/wallpaper_sigma_wallpaper8_1"
             subtitle1="@string/author_sigma" />
 
+        <static-wallpaper
+            id="sigma_wallpaper9_1"
+            src="@drawable/sigma_wallpaper9_1"
+            title="@string/wallpaper_sigma_wallpaper9_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper10_1"
+            src="@drawable/sigma_wallpaper10_1"
+            title="@string/wallpaper_sigma_wallpaper10_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper11_1"
+            src="@drawable/sigma_wallpaper11_1"
+            title="@string/wallpaper_sigma_wallpaper11_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper12_1"
+            src="@drawable/sigma_wallpaper12_1"
+            title="@string/wallpaper_sigma_wallpaper12_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper13_1"
+            src="@drawable/sigma_wallpaper13_1"
+            title="@string/wallpaper_sigma_wallpaper13_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper14_1"
+            src="@drawable/sigma_wallpaper14_1"
+            title="@string/wallpaper_sigma_wallpaper14_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper15_1"
+            src="@drawable/sigma_wallpaper15_1"
+            title="@string/wallpaper_sigma_wallpaper15_1"
+            subtitle1="@string/author_sigma" />
+
     </category>
 
 </wallpapers>
